@@ -4,6 +4,8 @@
 // @include        https://*/_layouts/mngctype.aspx*
 // @include        http://*/_layouts/mngctype.aspx*
 // @include        http://*/_Layouts/mngctype.aspx*
+// @include        http://*/_Layouts/15/mngctype.aspx*
+// @include        https://*/_Layouts/15/mngctype.aspx*
 // ==/UserScript==
 /*! jQuery v1.6.4 http://jquery.com/ | http://jquery.org/license */
 (function (a, b) {

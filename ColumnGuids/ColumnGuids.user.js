@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name           ColumnGuids
 // @namespace      test
+// @include        https://*/_layouts/15/mngfield.aspx
+// @include        http://*/_layouts/15/mngfield.aspx
 // @include        https://*/_layouts/mngfield.aspx
-// @include        http://*/_layouts/mngfield.aspx
 // ==/UserScript==
 /*! jQuery v1.6.4 http://jquery.com/ | http://jquery.org/license */
 (function (a, b) {
